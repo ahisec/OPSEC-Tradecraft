@@ -12,6 +12,6 @@
 - [enumhandles_BOF](https://github.com/Octoberfest7/enumhandles_BOF)
 - [EDRenum-BOF](https://github.com/mlcsec/EDRenum-BOF)
 - [sekken-enum](https://github.com/Nomad0x7/sekken-enum)
+- [cleanldap](https://github.com/mandiant/cleanldap)
 - [smbtakeover](https://github.com/zyn3rgy/smbtakeover)
 - [Adrenaline](https://github.com/atomiczsec/Adrenaline)
-
